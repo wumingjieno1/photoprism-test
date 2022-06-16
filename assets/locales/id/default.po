@@ -1,0 +1,261 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-09 00:51+0000\n"
+"PO-Revision-Date: 2022-02-19 14:53+0000\n"
+"Last-Translator: Admin <hello@photoprism.app>\n"
+"Language-Team: Indonesian <https://translate.photoprism.app/projects/"
+"photoprism/backend/id/>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.10.1\n"
+
+msgid "Unexpected error, please try again"
+msgstr "Kesalahan tak terduga, silakan coba lagi"
+
+msgid "Invalid request"
+msgstr "Permintaan tidak valid"
+
+msgid "Changes could not be saved"
+msgstr "Perubahan tidak dapat disimpan"
+
+msgid "Could not be deleted"
+msgstr "Tidak dapat dihapus"
+
+#, c-format
+msgid "%s already exists"
+msgstr "%s sudah ada"
+
+msgid "Not found"
+msgstr "Tidak ditemukan"
+
+msgid "File not found"
+msgstr "Berkas tidak ditemukan"
+
+msgid "Selection not found"
+msgstr "Pilihan tidak ditemukan"
+
+msgid "Entity not found"
+msgstr "Entitas tidak ditemukan"
+
+msgid "Account not found"
+msgstr "Akun tidak ditemukan"
+
+msgid "User not found"
+msgstr "Pengguna tidak ditemukan"
+
+msgid "Label not found"
+msgstr "Label tidak ditemukan"
+
+msgid "Album not found"
+msgstr "Album tidak ditemukan"
+
+msgid "Subject not found"
+msgstr "Subjek tidak ditemukan"
+
+msgid "Person not found"
+msgstr "Orang tidak ditemukan"
+
+msgid "Face not found"
+msgstr "Wajah tidak ditemukan"
+
+msgid "Not available in public mode"
+msgstr "Tidak tersedia dalam mode publik"
+
+msgid "not available in read-only mode"
+msgstr "tidak tersedia dalam mode read-only"
+
+msgid "Please log in and try again"
+msgstr "Silakan masuk dan coba lagi"
+
+msgid "Upload might be offensive"
+msgstr "Unggahan mungkin menyinggung"
+
+msgid "No items selected"
+msgstr "Tidak ada item yang dipilih"
+
+msgid "Failed creating file, please check permissions"
+msgstr "Gagal membuat file, silakan periksa izin"
+
+msgid "Failed creating folder, please check permissions"
+msgstr "Gagal membuat folder, silakan periksa izin"
+
+msgid "Could not connect, please try again"
+msgstr "Tidak dapat terhubung, silakan coba lagi"
+
+msgid "Invalid password, please try again"
+msgstr "Kata sandi salah, silakan coba lagi"
+
+msgid "Feature disabled"
+msgstr "Fitur dinonaktifkan"
+
+msgid "No labels selected"
+msgstr "Tidak ada label yang dipilih"
+
+msgid "No albums selected"
+msgstr "Tidak ada album yang dipilih"
+
+msgid "No files available for download"
+msgstr "Tidak ada file yang tersedia untuk diunduh"
+
+msgid "Failed to create zip file"
+msgstr "Gagal membuat file zip"
+
+msgid "Invalid credentials"
+msgstr "Kredensial tidak valid"
+
+msgid "Invalid link"
+msgstr "Tautan tidak valid"
+
+msgid "Invalid name"
+msgstr "Nama tidak valid"
+
+#, fuzzy
+#| msgid "Invalid password, please try again"
+msgid "Busy, please try again later"
+msgstr "Kata sandi salah, silakan coba lagi"
+
+msgid "Changes successfully saved"
+msgstr "Perubahan berhasil disimpan"
+
+msgid "Album created"
+msgstr "Album dibuat"
+
+msgid "Album saved"
+msgstr "Album disimpan"
+
+#, c-format
+msgid "Album %s deleted"
+msgstr "Album %s dihapus"
+
+msgid "Album contents cloned"
+msgstr "Konten album dikloning"
+
+msgid "File removed from stack"
+msgstr "File dihapus dari tumpukan"
+
+msgid "File deleted"
+msgstr "Berkas dihapus"
+
+#, c-format
+msgid "Selection added to %s"
+msgstr "Pilihan ditambahkan ke %s"
+
+#, c-format
+msgid "One entry added to %s"
+msgstr "Satu entri ditambahkan ke %s"
+
+#, c-format
+msgid "%d entries added to %s"
+msgstr "%d entri ditambahkan ke %s"
+
+#, c-format
+msgid "One entry removed from %s"
+msgstr "Satu entri dihapus dari %s"
+
+#, c-format
+msgid "%d entries removed from %s"
+msgstr "%d entri dihapus dari %s"
+
+msgid "Account created"
+msgstr "Akun dibuat"
+
+msgid "Account saved"
+msgstr "Akun disimpan"
+
+msgid "Account deleted"
+msgstr "Akun dihapus"
+
+msgid "Settings saved"
+msgstr "Pengaturan disimpan"
+
+msgid "Password changed"
+msgstr "Kata sandi diubah"
+
+#, c-format
+msgid "Import completed in %d s"
+msgstr "Impor selesai dalam %d detik"
+
+msgid "Import canceled"
+msgstr "Impor dibatalkan"
+
+#, c-format
+msgid "Indexing completed in %d s"
+msgstr "Pengindeksan selesai dalam %d detik"
+
+msgid "Indexing originals..."
+msgstr "Mengindeks dokumen asli..."
+
+#, c-format
+msgid "Indexing files in %s"
+msgstr "Mengindeks file dalam %s"
+
+msgid "Indexing canceled"
+msgstr "Pengindeksan dibatalkan"
+
+#, c-format
+msgid "Removed %d files and %d photos"
+msgstr "Menghapus %d file dan %d foto"
+
+#, c-format
+msgid "Moving files from %s"
+msgstr "Memindahkan file dari %s"
+
+#, c-format
+msgid "Copying files from %s"
+msgstr "Menyalin file dari %s"
+
+msgid "Labels deleted"
+msgstr "Label dihapus"
+
+msgid "Label saved"
+msgstr "Label disimpan"
+
+msgid "Subject saved"
+msgstr "Subjek disimpan"
+
+msgid "Subject deleted"
+msgstr "Subjek dihapus"
+
+msgid "Person saved"
+msgstr "Orang disimpan"
+
+msgid "Person deleted"
+msgstr "Orang dihapus"
+
+#, c-format
+msgid "%d files uploaded in %d s"
+msgstr "%d file diupload di %d detik"
+
+msgid "Selection approved"
+msgstr "Pilihan disetujui"
+
+msgid "Selection archived"
+msgstr "Pilihan diarsipkan"
+
+msgid "Selection restored"
+msgstr "Pilihan dipulihkan"
+
+msgid "Selection marked as private"
+msgstr "Pilihan ditandai sebagai pribadi"
+
+#, fuzzy
+msgid "Albums deleted"
+msgstr "Album dihapus"
+
+#, c-format
+msgid "Zip created in %d s"
+msgstr "Zip dibuat dalam %d detik"
+
+#, fuzzy
+msgid "Permanently deleted"
+msgstr "Dihapus secara permanen"

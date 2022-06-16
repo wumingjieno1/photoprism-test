@@ -1,0 +1,260 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: ci@photoprism.app\n"
+"POT-Creation-Date: 2021-12-09 00:51+0000\n"
+"PO-Revision-Date: 2022-04-27 10:16+0000\n"
+"Last-Translator: Admin <hello@photoprism.app>\n"
+"Language-Team: Norwegian Bokmål <https://translate.photoprism.app/projects/"
+"photoprism/backend/nb_NO/>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12\n"
+
+msgid "Unexpected error, please try again"
+msgstr "Uventet feil, prøv på nytt"
+
+msgid "Invalid request"
+msgstr "Ugyldig forespørsel"
+
+msgid "Changes could not be saved"
+msgstr "Kan ikke lagre endringer"
+
+msgid "Could not be deleted"
+msgstr "Kan ikke slettes"
+
+#, c-format
+msgid "%s already exists"
+msgstr "%s eksisterer allerede"
+
+msgid "Not found"
+msgstr "Ikke funnet"
+
+msgid "File not found"
+msgstr "Fil ikke funnet"
+
+msgid "Selection not found"
+msgstr "Finner ikke utvalg"
+
+msgid "Entity not found"
+msgstr "Enheten ble ikke funnet"
+
+msgid "Account not found"
+msgstr "Konto ikke funnet"
+
+msgid "User not found"
+msgstr "Bruker ikke funnet"
+
+msgid "Label not found"
+msgstr "Merkelapp ikke funnet"
+
+msgid "Album not found"
+msgstr "Album ikke funnet"
+
+msgid "Subject not found"
+msgstr "Emnet ble ikke funnet"
+
+msgid "Person not found"
+msgstr "Person ikke funnet"
+
+msgid "Face not found"
+msgstr "Ansikt ikke funnet"
+
+msgid "Not available in public mode"
+msgstr "Ikke tilgjengelig i offentlig modus"
+
+msgid "not available in read-only mode"
+msgstr "ikke tilgjengelig i skrivebeskyttet modus"
+
+msgid "Please log in and try again"
+msgstr "Vennligst logg inn og prøv igjen"
+
+msgid "Upload might be offensive"
+msgstr "Opplastingen kan være støtende"
+
+msgid "No items selected"
+msgstr "Ingen elementer valgt"
+
+msgid "Failed creating file, please check permissions"
+msgstr "Kunne ikke opprette fil, vennligst sjekk tillatelser"
+
+msgid "Failed creating folder, please check permissions"
+msgstr "Kunne ikke opprette mappe, vennligst sjekk tillatelser"
+
+msgid "Could not connect, please try again"
+msgstr "Kunne ikke koble til, vennligst prøv igjen"
+
+msgid "Invalid password, please try again"
+msgstr "Ugyldig passord, vennligst prøv igjen"
+
+msgid "Feature disabled"
+msgstr "Tjeneste deaktivert"
+
+msgid "No labels selected"
+msgstr "Ingen merkelapper valgt"
+
+msgid "No albums selected"
+msgstr "Ingen albumer valgt"
+
+msgid "No files available for download"
+msgstr "Ingen filer tilgjengelig for nedlasting"
+
+msgid "Failed to create zip file"
+msgstr "Kunne ikke opprette zip-arkiv"
+
+msgid "Invalid credentials"
+msgstr "Ugyldige innloggingsdetaljer"
+
+msgid "Invalid link"
+msgstr "Ugyldig lenke"
+
+msgid "Invalid name"
+msgstr "Ugyldig navn"
+
+msgid "Busy, please try again later"
+msgstr "Opptatt. Prøv igjen senere"
+
+msgid "Changes successfully saved"
+msgstr "Endringene ble lagret"
+
+msgid "Album created"
+msgstr "Album opprettet"
+
+msgid "Album saved"
+msgstr "Album lagret"
+
+#, c-format
+msgid "Album %s deleted"
+msgstr "Album %s slettet"
+
+msgid "Album contents cloned"
+msgstr "Albuminnhold duplisert"
+
+msgid "File removed from stack"
+msgstr "Fil fjernet fra samling"
+
+msgid "File deleted"
+msgstr "Fil slettet"
+
+#, c-format
+msgid "Selection added to %s"
+msgstr "Utvalg lagt til %s"
+
+#, c-format
+msgid "One entry added to %s"
+msgstr "En oppføring lagt til %s"
+
+#, c-format
+msgid "%d entries added to %s"
+msgstr "%d oppføringer lagt til %s"
+
+#, c-format
+msgid "One entry removed from %s"
+msgstr "En oppføring fjernet fra %s"
+
+#, c-format
+msgid "%d entries removed from %s"
+msgstr "%d oppføringer fjernet fra %s"
+
+msgid "Account created"
+msgstr "Konto opprettet"
+
+msgid "Account saved"
+msgstr "Konto lagret"
+
+msgid "Account deleted"
+msgstr "Konto slettet"
+
+msgid "Settings saved"
+msgstr "Innstillinger lagret"
+
+msgid "Password changed"
+msgstr "Passord endret"
+
+#, c-format
+msgid "Import completed in %d s"
+msgstr "Import fullført på %d s"
+
+msgid "Import canceled"
+msgstr "Import avbrutt"
+
+#, c-format
+msgid "Indexing completed in %d s"
+msgstr "Indeksering fullført på %d s"
+
+msgid "Indexing originals..."
+msgstr "Indekserer originaler…"
+
+#, c-format
+msgid "Indexing files in %s"
+msgstr "Indekserer filer i %s"
+
+msgid "Indexing canceled"
+msgstr "Indeksering avbrutt"
+
+#, c-format
+msgid "Removed %d files and %d photos"
+msgstr "Fjernet %d filer og %d foto"
+
+#, c-format
+msgid "Moving files from %s"
+msgstr "Flytter filer fra %s"
+
+#, c-format
+msgid "Copying files from %s"
+msgstr "Kopierer filer fra %s"
+
+msgid "Labels deleted"
+msgstr "Merkelapper slettet"
+
+msgid "Label saved"
+msgstr "Merkelapper lagret"
+
+msgid "Subject saved"
+msgstr "Emnet er lagret"
+
+msgid "Subject deleted"
+msgstr "Emnet er slettet"
+
+msgid "Person saved"
+msgstr "Person reddet"
+
+msgid "Person deleted"
+msgstr "Person slettet"
+
+#, c-format
+msgid "%d files uploaded in %d s"
+msgstr "%d filer lastet opp på %d s"
+
+msgid "Selection approved"
+msgstr "Utvalg godkjent"
+
+msgid "Selection archived"
+msgstr "Utvalg arkivert"
+
+msgid "Selection restored"
+msgstr "Utvalg gjenopprettet"
+
+msgid "Selection marked as private"
+msgstr "Utvalg markert som privat"
+
+msgid "Albums deleted"
+msgstr "Album slettet"
+
+#, c-format
+msgid "Zip created in %d s"
+msgstr "Zip opprettet på %d s"
+
+msgid "Permanently deleted"
+msgstr "Permanent slettet"
+
+#~ msgid "Not found on server, deleted?"
+#~ msgstr "Finnes ikke på serveren, slettet?"

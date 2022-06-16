@@ -1,0 +1,184 @@
+#p-navigation {
+    z-index: 10;
+}
+
+nav .v-list__tile__title.title {
+    line-height: normal!important;
+}
+
+#p-navigation .nav-title {
+    text-align: left;
+    /* font-weight: bold; */
+    font-size: 18px;
+    -webkit-box-flex: 1!important;
+    -ms-flex-positive: 1!important;
+    flex-grow: 1!important;
+    margin-left: 14px;
+    margin-right: 14px;
+    max-height: 100%;
+    line-height: normal!important;
+}
+
+.is-rtl #p-navigation .nav-title {
+    text-align: right;
+}
+
+#p-navigation .nav-count {
+    opacity: 0.5;
+    /*position: absolute;*/
+    /*left: 80px;*/
+    /*width: 40px;*/
+    /*display: inline-block;*/
+    text-align: right;
+}
+
+#p-navigation .nav-count.--rtl {
+    right: 80px;
+    text-align: left;
+}
+
+#p-navigation .menu-item.--rtl {
+    /* Margin title from right 72px, the calc is the 72px minus the original "v-list-tile" right margin 16px */
+    margin-right: calc(72px - 16px);
+}
+
+.v-list__group__header .v-list__group__header__append-icon {
+    padding-left: 8px !important;
+}
+
+#photoprism .p-page a,
+#photoprism .text-link {
+    text-decoration: none;
+    color: #333333;
+}
+
+#photoprism .theme--dark.v-sheet .text-link,
+#photoprism .theme--dark.v-card .text-link {
+    color: white;
+}
+
+#imprint {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    min-width: 200px;
+    padding: 0 5px;
+    background-color: rgba(255, 255, 255, 0.6);
+    margin: 0;
+    text-align: center;
+    border-radius: 5px 5px 0 0;
+}
+
+#imprint a,
+#imprint span {
+    text-decoration: none;
+    font-size: 12px;
+    color: #000;
+}
+
+#app.small-screen.show-nav main div.v-content__wrap {
+    padding-top: 48px;
+}
+
+#photoprism .v-tabs .v-toolbar__content {
+    padding: 0 16px 0 0;
+}
+
+#photoprism .v-toolbar.page-toolbar {
+    box-shadow: none;
+}
+
+#photoprism .v-tabs .v-toolbar.page-toolbar .v-toolbar__content,
+#photoprism .v-toolbar.page-toolbar .v-toolbar__content {
+    padding: 0 16px 0 16px;
+}
+
+#photoprism .v-toolbar.page-toolbar .v-text-field .v-input__prepend-outer {
+    margin-right: 0;
+}
+
+#photoprism .v-toolbar.page-toolbar .v-text-field .v-input__slot {
+    padding-left: 0;
+}
+
+#photoprism .page-toolbar .input-category .v-select__selections {
+    min-width: 130px;
+}
+
+#photoprism .page-toolbar .input-category .v-select__selections input {
+    position: absolute;
+}
+
+#photoprism .page-toolbar .input-category .v-select__selections .v-select__selection {
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.p-user-box {
+    width: 100%;
+    padding: 0;
+}
+.p-profile > a {
+    height: 64px;
+}
+.p-flex-nav {
+    display: flex;
+    flex-flow: column nowrap;
+    overflow-y: hidden;
+}
+.p-flex-menu {
+    overflow-y: auto;
+    flex-grow: 1;
+}
+.p-flex-menuitem {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+.p-flex-menuitem .nav-count {
+    margin-right: 48px;
+    margin-left: 8px;
+}
+.v-list__group__header .p-flex-menuitem .nav-count {
+    margin-right: 0;
+}
+
+#photoprism .nav-logo .v-list__tile__action {
+    min-width: 35px;
+}
+
+#photoprism nav.nav-small .v-menu__content {
+    padding: 0;
+}
+
+/* SPEED DIAL */
+
+#photoprism .v-speed-dial__list .v-btn .v-icon {
+    font-size: 19px;
+}
+
+/* MOBILE NAV SPEED DIAL */
+
+#photoprism .mobile-dial .v-btn.nav-menu-trigger {
+    width: 48px;
+}
+
+#photoprism .mobile-dial .v-btn:after,
+#photoprism .mobile-dial .v-btn:before {
+    display: none!important;
+}
+
+#photoprism .mobile-dial .v-speed-dial__list .v-btn {
+    color: white!important;
+    background-color: #8916ff;
+}
+
+#photoprism .mobile-dial .v-speed-dial__list .v-btn.highlight {
+    background-color: #5f30fe;
+}
+
+#photoprism .mobile-dial .v-speed-dial__list .v-btn:hover,
+#photoprism .mobile-dial .v-speed-dial__list .v-btn.highlight:hover {
+    background-color: #6600cc;
+}

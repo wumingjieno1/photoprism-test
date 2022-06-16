@@ -1,0 +1,262 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-09 00:51+0000\n"
+"PO-Revision-Date: 2022-02-19 14:34+0000\n"
+"Last-Translator: Admin <hello@photoprism.app>\n"
+"Language-Team: Portuguese (Brazil) <https://translate.photoprism.app/"
+"projects/photoprism/backend/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.10.1\n"
+
+msgid "Unexpected error, please try again"
+msgstr "Erro inesperado, por favor tente novamente"
+
+msgid "Invalid request"
+msgstr "Solicitação inválida"
+
+msgid "Changes could not be saved"
+msgstr "As mudanças não foram salvas"
+
+msgid "Could not be deleted"
+msgstr "Não foi possível excluir"
+
+#, c-format
+msgid "%s already exists"
+msgstr "%s já existe"
+
+msgid "Not found"
+msgstr "Não encontrado"
+
+msgid "File not found"
+msgstr "Arquivo não encontrado"
+
+msgid "Selection not found"
+msgstr "Seleção não encontrada"
+
+msgid "Entity not found"
+msgstr "Entidade não encontrada"
+
+msgid "Account not found"
+msgstr "Conta não encontrada"
+
+msgid "User not found"
+msgstr "Usuário não encontrado"
+
+msgid "Label not found"
+msgstr "Etiqueta não encontrada"
+
+msgid "Album not found"
+msgstr "Álbum não encontrado"
+
+msgid "Subject not found"
+msgstr "Assunto não encontrado"
+
+msgid "Person not found"
+msgstr "Pessoa não encontrada"
+
+msgid "Face not found"
+msgstr "Rosto não encontrado"
+
+msgid "Not available in public mode"
+msgstr "Indisponível em modo público"
+
+msgid "not available in read-only mode"
+msgstr "indisponível em modo somente leitura"
+
+msgid "Please log in and try again"
+msgstr "Por favor entre em sua conta e tente novamente"
+
+msgid "Upload might be offensive"
+msgstr "Envio pode ser ofensivo"
+
+msgid "No items selected"
+msgstr "Sem itens selecionados"
+
+msgid "Failed creating file, please check permissions"
+msgstr "Falha ao criar arquivo, por favor cheque as permissões"
+
+msgid "Failed creating folder, please check permissions"
+msgstr "Falha ao criar pasta, por favor cheque as permissões"
+
+msgid "Could not connect, please try again"
+msgstr "Não foi possível conectar, por favor tente novamente"
+
+msgid "Invalid password, please try again"
+msgstr "Senha inválida, por favor tente novamente"
+
+msgid "Feature disabled"
+msgstr "Recurso Desativado"
+
+msgid "No labels selected"
+msgstr "Sem etiquetas selecionadas"
+
+msgid "No albums selected"
+msgstr "Sem álbuns selecionados"
+
+msgid "No files available for download"
+msgstr "Sem arquivos disponíveis para baixar"
+
+msgid "Failed to create zip file"
+msgstr "Falha ao criar arquivo zip"
+
+msgid "Invalid credentials"
+msgstr "Credenciais inválidas"
+
+msgid "Invalid link"
+msgstr "Link inválido"
+
+msgid "Invalid name"
+msgstr "Nome inválido"
+
+#, fuzzy
+#| msgid "Invalid password, please try again"
+msgid "Busy, please try again later"
+msgstr "Senha inválida, por favor tente novamente"
+
+msgid "Changes successfully saved"
+msgstr "As mudanças foram salvas com sucesso"
+
+msgid "Album created"
+msgstr "Álbum criado"
+
+msgid "Album saved"
+msgstr "Álbum salvo"
+
+#, c-format
+msgid "Album %s deleted"
+msgstr "Álbum %s excluído"
+
+msgid "Album contents cloned"
+msgstr "Conteúdo do álbum copiado"
+
+msgid "File removed from stack"
+msgstr "Arquivo removido da pilha"
+
+msgid "File deleted"
+msgstr "Arquivo excluído"
+
+#, c-format
+msgid "Selection added to %s"
+msgstr "Seleção adicionada a %s"
+
+#, c-format
+msgid "One entry added to %s"
+msgstr "Uma entrada adicionada a %s"
+
+#, c-format
+msgid "%d entries added to %s"
+msgstr "%d entradas adicionadas a %s"
+
+#, c-format
+msgid "One entry removed from %s"
+msgstr "Uma entrada removida de %s"
+
+#, c-format
+msgid "%d entries removed from %s"
+msgstr "%d entradas removidas de %s"
+
+msgid "Account created"
+msgstr "Conta criada"
+
+msgid "Account saved"
+msgstr "Conta salva"
+
+msgid "Account deleted"
+msgstr "Conta excluída"
+
+msgid "Settings saved"
+msgstr "Configurações salvas"
+
+msgid "Password changed"
+msgstr "Senha alterada"
+
+#, c-format
+msgid "Import completed in %d s"
+msgstr "Importação completa em %d"
+
+msgid "Import canceled"
+msgstr "Importação cancelada"
+
+#, c-format
+msgid "Indexing completed in %d s"
+msgstr "Indexação completa em %d"
+
+msgid "Indexing originals..."
+msgstr "Indexando originais..."
+
+#, c-format
+msgid "Indexing files in %s"
+msgstr "Indexando arquivos em %s"
+
+msgid "Indexing canceled"
+msgstr "Indexação cancelada"
+
+#, c-format
+msgid "Removed %d files and %d photos"
+msgstr "Removidos %d arquivos e %d fotos"
+
+#, c-format
+msgid "Moving files from %s"
+msgstr "Movendo arquivos de %s"
+
+#, c-format
+msgid "Copying files from %s"
+msgstr "Copiando arquivos de %s"
+
+msgid "Labels deleted"
+msgstr "Etiquetas excluídas"
+
+msgid "Label saved"
+msgstr "Etiqueta salva"
+
+msgid "Subject saved"
+msgstr "Assunto salvo"
+
+msgid "Subject deleted"
+msgstr "Assunto eliminado"
+
+msgid "Person saved"
+msgstr "Pessoa salva"
+
+msgid "Person deleted"
+msgstr "Pessoa apagada"
+
+#, c-format
+msgid "%d files uploaded in %d s"
+msgstr "%d arquivos enviados em %d"
+
+msgid "Selection approved"
+msgstr "Seleção aprovada"
+
+msgid "Selection archived"
+msgstr "Seleção arquivada"
+
+msgid "Selection restored"
+msgstr "Seleção restaurada"
+
+msgid "Selection marked as private"
+msgstr "Seleção marcada como privada"
+
+msgid "Albums deleted"
+msgstr "Álbuns excluídos"
+
+#, c-format
+msgid "Zip created in %d s"
+msgstr "Zip criado em %d"
+
+msgid "Permanently deleted"
+msgstr "Permanentemente excluídas"
+
+#~ msgid "Not found on server, deleted?"
+#~ msgstr "Não foi encontrado no servidor, foi excluído?"

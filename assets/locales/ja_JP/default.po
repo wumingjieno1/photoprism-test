@@ -1,0 +1,262 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: ci@photoprism.app\n"
+"POT-Creation-Date: 2021-12-09 00:51+0000\n"
+"PO-Revision-Date: 2022-05-17 19:49+0000\n"
+"Last-Translator: Admin <hello@photoprism.app>\n"
+"Language-Team: Japanese <https://translate.photoprism.app/projects/"
+"photoprism/backend/ja/>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+msgid "Unexpected error, please try again"
+msgstr "予期しないエラーが発生しました、再度試してみてください"
+
+msgid "Invalid request"
+msgstr "不正なリクエスト"
+
+msgid "Changes could not be saved"
+msgstr "変更を保存できませんでした"
+
+msgid "Could not be deleted"
+msgstr "削除できませんでした"
+
+#, c-format
+msgid "%s already exists"
+msgstr "%s は既に存在します"
+
+msgid "Not found"
+msgstr "見つかりません"
+
+msgid "File not found"
+msgstr "ファイルが見つかりませんでした"
+
+msgid "Selection not found"
+msgstr "選択した項目は存在しません"
+
+msgid "Entity not found"
+msgstr "エンティティが見つかりません"
+
+msgid "Account not found"
+msgstr "アカウントは存在しません"
+
+msgid "User not found"
+msgstr "ユーザは存在しません"
+
+msgid "Label not found"
+msgstr "ラベルは存在しません"
+
+msgid "Album not found"
+msgstr "アルバムは存在しません"
+
+msgid "Subject not found"
+msgstr "件名が見つかりません"
+
+msgid "Person not found"
+msgstr "人が見つかりません"
+
+msgid "Face not found"
+msgstr "顔が見つからない"
+
+msgid "Not available in public mode"
+msgstr "公開モードでは利用できません"
+
+msgid "not available in read-only mode"
+msgstr "読み込み専用モードでは利用できません"
+
+msgid "Please log in and try again"
+msgstr "ログインして再度試してみてください"
+
+msgid "Upload might be offensive"
+msgstr "アップロードされた項目に過激なものが含まれている可能性があります"
+
+msgid "No items selected"
+msgstr "項目が選択されていません"
+
+msgid "Failed creating file, please check permissions"
+msgstr "ファイルの作成に失敗しました、権限を確認してください"
+
+msgid "Failed creating folder, please check permissions"
+msgstr "フォルダの作成に失敗しました、権限を確認してください"
+
+msgid "Could not connect, please try again"
+msgstr "接続できませんでした、再度試してみてください"
+
+msgid "Invalid password, please try again"
+msgstr "不正なパスワードです、再度試してみてください"
+
+msgid "Feature disabled"
+msgstr "機能が無効になりました"
+
+msgid "No labels selected"
+msgstr "ラベルが選択されていません"
+
+msgid "No albums selected"
+msgstr "アルバムが選択されていません"
+
+msgid "No files available for download"
+msgstr "ダウンロードできるファイルはありません"
+
+msgid "Failed to create zip file"
+msgstr "zip ファイルの作成に失敗しました"
+
+msgid "Invalid credentials"
+msgstr "不正な認証情報"
+
+msgid "Invalid link"
+msgstr "不正なリンク"
+
+msgid "Invalid name"
+msgstr "無効なバケット名"
+
+#, fuzzy
+#| msgid "Invalid password, please try again"
+msgid "Busy, please try again later"
+msgstr "不正なパスワードです、再度試してみてください"
+
+msgid "Changes successfully saved"
+msgstr "正常に変更が保存されました"
+
+msgid "Album created"
+msgstr "アルバムを作成しました"
+
+msgid "Album saved"
+msgstr "アルバムを保存しました"
+
+#, c-format
+msgid "Album %s deleted"
+msgstr "アルバム %s を削除しました"
+
+msgid "Album contents cloned"
+msgstr "アルバムの内容が複製されました"
+
+msgid "File removed from stack"
+msgstr "スタックからファイルが削除されました"
+
+msgid "File deleted"
+msgstr "ファイルが削除されました"
+
+#, c-format
+msgid "Selection added to %s"
+msgstr "選択した項目が %s に追加されました"
+
+#, c-format
+msgid "One entry added to %s"
+msgstr "1 件の項目が %s に追加されました"
+
+#, c-format
+msgid "%d entries added to %s"
+msgstr "%d 件の項目が %s に追加されました"
+
+#, c-format
+msgid "One entry removed from %s"
+msgstr "1 件の項目が %s から削除されました"
+
+#, c-format
+msgid "%d entries removed from %s"
+msgstr "%d 件の項目が %s から削除されました"
+
+msgid "Account created"
+msgstr "アカウントが作成されました"
+
+msgid "Account saved"
+msgstr "アカウントが保存されました"
+
+msgid "Account deleted"
+msgstr "アカウントが削除されました"
+
+msgid "Settings saved"
+msgstr "設定が保存されました"
+
+msgid "Password changed"
+msgstr "パスワードが変更されました"
+
+#, c-format
+msgid "Import completed in %d s"
+msgstr "インポートが %d 秒で完了しました"
+
+msgid "Import canceled"
+msgstr "インポートが取り消されました"
+
+#, c-format
+msgid "Indexing completed in %d s"
+msgstr "インデックスが %d 秒で完了しました"
+
+msgid "Indexing originals..."
+msgstr "オリジナルの項目をインデックスしています..."
+
+#, c-format
+msgid "Indexing files in %s"
+msgstr "%s 内のファイルをインデックスしています"
+
+msgid "Indexing canceled"
+msgstr "インデックスが取り消されました"
+
+#, c-format
+msgid "Removed %d files and %d photos"
+msgstr "%d 件のファイルと %d 件の写真が削除されました"
+
+#, c-format
+msgid "Moving files from %s"
+msgstr "%s からファイルを移動しています"
+
+#, c-format
+msgid "Copying files from %s"
+msgstr "%s からファイルをコピーしています"
+
+msgid "Labels deleted"
+msgstr "ラベルが削除されました"
+
+msgid "Label saved"
+msgstr "ラベルが保存されました"
+
+msgid "Subject saved"
+msgstr "保存対象"
+
+msgid "Subject deleted"
+msgstr "件名 削除"
+
+msgid "Person saved"
+msgstr "保存された人"
+
+msgid "Person deleted"
+msgstr "削除された人"
+
+#, c-format
+msgid "%d files uploaded in %d s"
+msgstr "%d 件のファイルを %d 秒でアップロードしました"
+
+msgid "Selection approved"
+msgstr "選択した項目が承認されました"
+
+msgid "Selection archived"
+msgstr "選択した項目がアーカイブされました"
+
+msgid "Selection restored"
+msgstr "選択した項目が復元されました"
+
+msgid "Selection marked as private"
+msgstr "選択した項目をプライベートにしました"
+
+msgid "Albums deleted"
+msgstr "アルバムが削除されました"
+
+#, c-format
+msgid "Zip created in %d s"
+msgstr "%d 秒で zip ファイルを作成しました"
+
+msgid "Permanently deleted"
+msgstr "永久に削除"
+
+#~ msgid "Not found on server, deleted?"
+#~ msgstr "サーバーには見つかりませんでした、削除されましたか？"

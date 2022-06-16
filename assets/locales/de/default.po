@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: ci@photoprism.app\n"
+"POT-Creation-Date: 2021-12-09 00:51+0000\n"
+"PO-Revision-Date: 2022-04-06 07:19+0000\n"
+"Last-Translator: Admin <hello@photoprism.app>\n"
+"Language-Team: German <https://translate.photoprism.app/projects/photoprism/"
+"backend/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11.2\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Unexpected error, please try again"
+msgstr "Unerwarteter Fehler, bitte erneut versuchen"
+
+msgid "Invalid request"
+msgstr "Ungültige Anfrage"
+
+msgid "Changes could not be saved"
+msgstr "Fehler beim Speichern der Daten"
+
+msgid "Could not be deleted"
+msgstr "Konnte nicht gelöscht werden"
+
+#, c-format
+msgid "%s already exists"
+msgstr "%s existiert bereits"
+
+msgid "Not found"
+msgstr "Nicht gefunden"
+
+msgid "File not found"
+msgstr "Datei konnte nicht gefunden werden"
+
+msgid "Selection not found"
+msgstr "Auswahl nicht gefunden"
+
+msgid "Entity not found"
+msgstr "Keine Daten gefunden"
+
+msgid "Account not found"
+msgstr "Unbekannter Account"
+
+msgid "User not found"
+msgstr "Nutzer nicht gefunden"
+
+msgid "Label not found"
+msgstr "Kategorie nicht gefunden"
+
+msgid "Album not found"
+msgstr "Album nicht gefunden"
+
+msgid "Subject not found"
+msgstr "Unbekanntes Motiv"
+
+msgid "Person not found"
+msgstr "Unbekannte Person"
+
+msgid "Face not found"
+msgstr "Unbekanntes Gesicht"
+
+msgid "Not available in public mode"
+msgstr "Im öffentlichen Modus nicht verfügbar"
+
+msgid "not available in read-only mode"
+msgstr "Funktion im schreibgeschützten Modus nicht verfügbar"
+
+msgid "Please log in and try again"
+msgstr "Anmeldung erforderlich"
+
+msgid "Upload might be offensive"
+msgstr "Inhalt könnte anstößig sein und wurde abgelehnt"
+
+msgid "No items selected"
+msgstr "Nichts ausgewählt"
+
+msgid "Failed creating file, please check permissions"
+msgstr "Datei konnte nicht angelegt werden"
+
+msgid "Failed creating folder, please check permissions"
+msgstr "Verzeichnis konnte nicht angelegt werden"
+
+msgid "Could not connect, please try again"
+msgstr "Verbindung fehlgeschlagen"
+
+msgid "Invalid password, please try again"
+msgstr "Ungültiges Passwort"
+
+msgid "Feature disabled"
+msgstr "Funktion deaktiviert"
+
+msgid "No labels selected"
+msgstr "Keine Kategorien ausgewählt"
+
+msgid "No albums selected"
+msgstr "Keine Alben ausgewählt"
+
+msgid "No files available for download"
+msgstr "Keine Dateien zum Download verfügbar"
+
+msgid "Failed to create zip file"
+msgstr "Zip-Datei konnte nicht erstellt werden"
+
+msgid "Invalid credentials"
+msgstr "Ungültige Zugangsdaten"
+
+msgid "Invalid link"
+msgstr "Ungültiger Link"
+
+msgid "Invalid name"
+msgstr "Ungültiger Name"
+
+msgid "Busy, please try again later"
+msgstr "Beschäftigt, bitte später erneut versuchen"
+
+msgid "Changes successfully saved"
+msgstr "Änderungen erfolgreich gespeichert"
+
+msgid "Album created"
+msgstr "Album erstellt"
+
+msgid "Album saved"
+msgstr "Album gespeichert"
+
+#, c-format
+msgid "Album %s deleted"
+msgstr "Album %s gelöscht"
+
+msgid "Album contents cloned"
+msgstr "Album-Einträge kopiert"
+
+msgid "File removed from stack"
+msgstr "Datei aus Stapel entfernt"
+
+msgid "File deleted"
+msgstr "Datei gelöscht"
+
+#, c-format
+msgid "Selection added to %s"
+msgstr "Auswahl zu %s hinzugefügt"
+
+#, c-format
+msgid "One entry added to %s"
+msgstr "Ein Eintrag zu %s hinzugefügt"
+
+#, c-format
+msgid "%d entries added to %s"
+msgstr "%d Einträge zu %s hinzugefügt"
+
+#, c-format
+msgid "One entry removed from %s"
+msgstr "Ein Eintrag aus %s entfernt"
+
+#, c-format
+msgid "%d entries removed from %s"
+msgstr "%d Einträge aus %s entfernt"
+
+msgid "Account created"
+msgstr "Server-Konfiguration angelegt"
+
+msgid "Account saved"
+msgstr "Server-Konfiguration gespeichert"
+
+msgid "Account deleted"
+msgstr "Server-Konfiguration gelöscht"
+
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"
+
+msgid "Password changed"
+msgstr "Passwort geändert"
+
+#, c-format
+msgid "Import completed in %d s"
+msgstr "Import in %d s abgeschlossen"
+
+msgid "Import canceled"
+msgstr "Import abgebrochen"
+
+#, c-format
+msgid "Indexing completed in %d s"
+msgstr "Indexierung in %d s abgeschlossen"
+
+msgid "Indexing originals..."
+msgstr "Indexiere Dateien…"
+
+#, c-format
+msgid "Indexing files in %s"
+msgstr "Indexiere Dateien in %s"
+
+msgid "Indexing canceled"
+msgstr "Indexierung abgebrochen"
+
+#, c-format
+msgid "Removed %d files and %d photos"
+msgstr "%d Dateien und %d Bilder wurden entfernt"
+
+#, c-format
+msgid "Moving files from %s"
+msgstr "Verschiebe Dateien von %s"
+
+#, c-format
+msgid "Copying files from %s"
+msgstr "Kopiere Dateien von %s"
+
+msgid "Labels deleted"
+msgstr "Kategorien gelöscht"
+
+msgid "Label saved"
+msgstr "Kategorie gespeichert"
+
+msgid "Subject saved"
+msgstr "Motiv gespeichert"
+
+msgid "Subject deleted"
+msgstr "Motiv gelöscht"
+
+msgid "Person saved"
+msgstr "Person aktualisiert"
+
+msgid "Person deleted"
+msgstr "Person gelöscht"
+
+#, c-format
+msgid "%d files uploaded in %d s"
+msgstr "%d Dateien hochgeladen in %d s"
+
+msgid "Selection approved"
+msgstr "Auswahl übernommen"
+
+msgid "Selection archived"
+msgstr "Auswahl archiviert"
+
+msgid "Selection restored"
+msgstr "Auswahl wiederhergestellt"
+
+msgid "Selection marked as private"
+msgstr "Auswahl als privat markiert"
+
+msgid "Albums deleted"
+msgstr "Alben gelöscht"
+
+#, c-format
+msgid "Zip created in %d s"
+msgstr "Zip-Datei erstellt in %d s"
+
+msgid "Permanently deleted"
+msgstr "Endgültig gelöscht"
+
+#~ msgid "Not found on server, deleted?"
+#~ msgstr "Nicht auf Server gefunden, gelöscht?"

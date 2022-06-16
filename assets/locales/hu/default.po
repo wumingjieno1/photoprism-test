@@ -1,0 +1,264 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-09 00:51+0000\n"
+"PO-Revision-Date: 2022-02-19 14:53+0000\n"
+"Last-Translator: Admin <hello@photoprism.app>\n"
+"Language-Team: Hungarian <https://translate.photoprism.app/projects/"
+"photoprism/backend/hu/>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.10.1\n"
+
+msgid "Unexpected error, please try again"
+msgstr "Váratlan hiba történt, próbálja újra"
+
+msgid "Invalid request"
+msgstr "Érvénytelen kérelem"
+
+msgid "Changes could not be saved"
+msgstr "Módosításokat nem sikerült menteni"
+
+msgid "Could not be deleted"
+msgstr "Nem sikerült törölni"
+
+#, c-format
+msgid "%s already exists"
+msgstr "%s már létezik"
+
+msgid "Not found"
+msgstr "Nem található"
+
+msgid "File not found"
+msgstr "Fájl nem található"
+
+msgid "Selection not found"
+msgstr "Kiválasztás nem található"
+
+msgid "Entity not found"
+msgstr "Entitás nem található"
+
+msgid "Account not found"
+msgstr "Fiók nem található"
+
+msgid "User not found"
+msgstr "Felhasználó nem található"
+
+msgid "Label not found"
+msgstr "Címke nem található"
+
+msgid "Album not found"
+msgstr "Album nem található"
+
+msgid "Subject not found"
+msgstr "Tárgy nem található"
+
+msgid "Person not found"
+msgstr "Személy nem található"
+
+msgid "Face not found"
+msgstr "Arc nem található"
+
+msgid "Not available in public mode"
+msgstr "Nyilvános módban nem elérhető"
+
+msgid "not available in read-only mode"
+msgstr "nem érhető el csak olvasható módban"
+
+msgid "Please log in and try again"
+msgstr "Kérjük, jelentkezzen be, és próbálja újra"
+
+msgid "Upload might be offensive"
+msgstr "Fájl feltöltése sértő lehet"
+
+msgid "No items selected"
+msgstr "Nincsenek kiválasztva elemek"
+
+msgid "Failed creating file, please check permissions"
+msgstr "Nem sikerült létrehozni a fájlt. Kérjük, ellenőrizze a jogosultságokat"
+
+msgid "Failed creating folder, please check permissions"
+msgstr "Mappa létrehozása sikertelen, kérjük, ellenőrizze a jogosultságokat"
+
+msgid "Could not connect, please try again"
+msgstr "Nem sikerült csatlakozni, próbálja újra"
+
+msgid "Invalid password, please try again"
+msgstr "Érvénytelen jelszó, próbálkozzon újra"
+
+msgid "Feature disabled"
+msgstr "Funkció letiltva"
+
+msgid "No labels selected"
+msgstr "Nincsenek kiválasztva címkék"
+
+msgid "No albums selected"
+msgstr "Nincsenek kiválasztott albumok"
+
+msgid "No files available for download"
+msgstr "Nincsenek letölthető fájlok"
+
+msgid "Failed to create zip file"
+msgstr "Nem sikerült létrehozni a zip fájlt"
+
+msgid "Invalid credentials"
+msgstr "Érvénytelen belépési adatok"
+
+msgid "Invalid link"
+msgstr "Érvénytelen hivatkozás"
+
+msgid "Invalid name"
+msgstr "Érvénytelen név"
+
+#, fuzzy
+#| msgid "Invalid password, please try again"
+msgid "Busy, please try again later"
+msgstr "Érvénytelen jelszó, próbálkozzon újra"
+
+msgid "Changes successfully saved"
+msgstr "Módosítások sikeresen mentve"
+
+msgid "Album created"
+msgstr "Album létrehozva"
+
+msgid "Album saved"
+msgstr "Album mentve"
+
+#, c-format
+msgid "Album %s deleted"
+msgstr "%s album törölve"
+
+msgid "Album contents cloned"
+msgstr "Album tartalma klónozva"
+
+msgid "File removed from stack"
+msgstr "Fájl eltávolítva a halomból"
+
+msgid "File deleted"
+msgstr "Fájl törölve"
+
+#, c-format
+msgid "Selection added to %s"
+msgstr "Választék hozzáadva a következőhöz: %s"
+
+#, c-format
+msgid "One entry added to %s"
+msgstr "Egy bejegyzés hozzáadva a következőhöz: %s"
+
+#, c-format
+msgid "%d entries added to %s"
+msgstr "%d bejegyzés hozzáadva a következőhöz: %s"
+
+#, c-format
+msgid "One entry removed from %s"
+msgstr "Egy bejegyzés eltávolítva innen: %s"
+
+#, c-format
+msgid "%d entries removed from %s"
+msgstr "%d bejegyzés eltávolítva innen: %s"
+
+msgid "Account created"
+msgstr "Fiók létrehozva"
+
+msgid "Account saved"
+msgstr "Fiók mentve"
+
+msgid "Account deleted"
+msgstr "Fiók törölve"
+
+msgid "Settings saved"
+msgstr "Beállítások elmentve"
+
+#, fuzzy
+msgid "Password changed"
+msgstr "Jelszó megváltoztatva"
+
+#, c-format
+msgid "Import completed in %d s"
+msgstr "Importálás %d másodperc alatt befejeződött"
+
+msgid "Import canceled"
+msgstr "Importálás megszakítva"
+
+#, c-format
+msgid "Indexing completed in %d s"
+msgstr "Indexelés %d másodperc alatt befejeződött"
+
+msgid "Indexing originals..."
+msgstr "Eredeti dokumentumok indexelése..."
+
+#, c-format
+msgid "Indexing files in %s"
+msgstr "Fájlok indexelése itt: %s"
+
+msgid "Indexing canceled"
+msgstr "Indexelés megszakítva"
+
+#, c-format
+msgid "Removed %d files and %d photos"
+msgstr "%d fájl és %d fénykép eltávolítva"
+
+#, c-format
+msgid "Moving files from %s"
+msgstr "Fájlok áthelyezése innen: %s"
+
+#, c-format
+msgid "Copying files from %s"
+msgstr "Fájlok másolása innen: %s"
+
+#, fuzzy
+msgid "Labels deleted"
+msgstr "Címkék törölve"
+
+msgid "Label saved"
+msgstr "Címkék mentve"
+
+msgid "Subject saved"
+msgstr "Tárgy mentve"
+
+msgid "Subject deleted"
+msgstr "Tárgy törölve"
+
+msgid "Person saved"
+msgstr "Személy mentve"
+
+msgid "Person deleted"
+msgstr "Személy törölve"
+
+#, c-format
+msgid "%d files uploaded in %d s"
+msgstr "%d fájl feltöltve %d másodperc alatt"
+
+#, fuzzy
+msgid "Selection approved"
+msgstr "Választék jóváhagyva"
+
+#, fuzzy
+msgid "Selection archived"
+msgstr "Választék archiválva"
+
+#, fuzzy
+msgid "Selection restored"
+msgstr "Választék visszaállítva"
+
+msgid "Selection marked as private"
+msgstr "Választék privátként megjelölve"
+
+msgid "Albums deleted"
+msgstr "Albumok törölve"
+
+#, c-format
+msgid "Zip created in %d s"
+msgstr "A tömörített fájl létrejött %d másodperc alatt"
+
+msgid "Permanently deleted"
+msgstr "Véglegesen törölve"

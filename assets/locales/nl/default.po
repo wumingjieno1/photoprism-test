@@ -1,0 +1,260 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: ci@photoprism.app\n"
+"POT-Creation-Date: 2021-12-09 00:51+0000\n"
+"PO-Revision-Date: 2022-05-21 22:01+0000\n"
+"Last-Translator: LyssaK <a.y.kurasova@gmail.com>\n"
+"Language-Team: Dutch <https://translate.photoprism.app/projects/photoprism/"
+"backend/nl/>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12.2\n"
+
+msgid "Unexpected error, please try again"
+msgstr "Onverwachte fout, probeer het opnieuw"
+
+msgid "Invalid request"
+msgstr "Ongeldige aanvraag"
+
+msgid "Changes could not be saved"
+msgstr "Wijzigingen kunnen niet worden opgeslagen"
+
+msgid "Could not be deleted"
+msgstr "Kan niet verwijderd worden"
+
+#, c-format
+msgid "%s already exists"
+msgstr "%s bestaat al"
+
+msgid "Not found"
+msgstr "Niet gevonden"
+
+msgid "File not found"
+msgstr "Bestand niet gevonden"
+
+msgid "Selection not found"
+msgstr "Selectie niet gevonden"
+
+msgid "Entity not found"
+msgstr "Entiteit niet gevonden"
+
+msgid "Account not found"
+msgstr "Account niet gevonden"
+
+msgid "User not found"
+msgstr "Gebruiker niet gevonden"
+
+msgid "Label not found"
+msgstr "Label niet gevonden"
+
+msgid "Album not found"
+msgstr "Album niet gevonden"
+
+msgid "Subject not found"
+msgstr "Onderwerp niet gevonden"
+
+msgid "Person not found"
+msgstr "Persoon niet gevonden"
+
+msgid "Face not found"
+msgstr "Gezicht niet gevonden"
+
+msgid "Not available in public mode"
+msgstr "Niet beschikbaar in publieke modus"
+
+msgid "not available in read-only mode"
+msgstr "niet beschikbaar in alleen-lezen modus"
+
+msgid "Please log in and try again"
+msgstr "Log in en probeer opnieuw"
+
+msgid "Upload might be offensive"
+msgstr "Upload kan aanstootgevend zijn"
+
+msgid "No items selected"
+msgstr "Geen items geselecteerd"
+
+msgid "Failed creating file, please check permissions"
+msgstr "Bestand aanmaken mislukt, controleer alstublieft de rechten"
+
+msgid "Failed creating folder, please check permissions"
+msgstr "Folder aanmaken mislukt, controleer alstublieft de rechten"
+
+msgid "Could not connect, please try again"
+msgstr "Kan niet verbinden, probeer alstublieft opnieuw"
+
+msgid "Invalid password, please try again"
+msgstr "Fout wachtwoord, probeer alstublieft opnieuw"
+
+msgid "Feature disabled"
+msgstr "Functie uitgeschakeld"
+
+msgid "No labels selected"
+msgstr "Geen labels geselecteerd"
+
+msgid "No albums selected"
+msgstr "Geen albums geselecteerd"
+
+msgid "No files available for download"
+msgstr "Geen bestanden beschikbaar om te downloaden"
+
+msgid "Failed to create zip file"
+msgstr "Maken van zip-bestand is mislukt"
+
+msgid "Invalid credentials"
+msgstr "Ongeldige inloggegevens"
+
+msgid "Invalid link"
+msgstr "Ongeldige link"
+
+msgid "Invalid name"
+msgstr "Ongeldige mapnaam"
+
+msgid "Busy, please try again later"
+msgstr "Bezet, probeer het later nog eens"
+
+msgid "Changes successfully saved"
+msgstr "Wijzigingen succesvol opgeslagen"
+
+msgid "Album created"
+msgstr "Album gemaakt"
+
+msgid "Album saved"
+msgstr "Album opgeslagen"
+
+#, c-format
+msgid "Album %s deleted"
+msgstr "Album %s verwijderd"
+
+msgid "Album contents cloned"
+msgstr "Albuminhoud gekopieerd"
+
+msgid "File removed from stack"
+msgstr "Bestand uit stapel verwijderd"
+
+msgid "File deleted"
+msgstr "Bestand verwijderd"
+
+#, c-format
+msgid "Selection added to %s"
+msgstr "Selectie toegevoegd aan %s"
+
+#, c-format
+msgid "One entry added to %s"
+msgstr "Eén item toegevoegd aan %s"
+
+#, c-format
+msgid "%d entries added to %s"
+msgstr "%d items toegevoegd aan %s"
+
+#, c-format
+msgid "One entry removed from %s"
+msgstr "Eén item verwijderd uit %s"
+
+#, c-format
+msgid "%d entries removed from %s"
+msgstr "%d items verwijderd uit %s"
+
+msgid "Account created"
+msgstr "Account aangemaakt"
+
+msgid "Account saved"
+msgstr "Account opgeslagen"
+
+msgid "Account deleted"
+msgstr "Account verwijderd"
+
+msgid "Settings saved"
+msgstr "Instellingen opgeslagen"
+
+msgid "Password changed"
+msgstr "Wachtwoord gewijzigd"
+
+#, c-format
+msgid "Import completed in %d s"
+msgstr "Importeren voltooid in %d s"
+
+msgid "Import canceled"
+msgstr "Importeren geannuleerd"
+
+#, c-format
+msgid "Indexing completed in %d s"
+msgstr "Indexeren voltooid in %d s"
+
+msgid "Indexing originals..."
+msgstr "Originelen indexeren…"
+
+#, c-format
+msgid "Indexing files in %s"
+msgstr "Bestanden indexeren in %s"
+
+msgid "Indexing canceled"
+msgstr "Indexeren geannuleerd"
+
+#, c-format
+msgid "Removed %d files and %d photos"
+msgstr "%d bestanden en %d foto’s verwijderd"
+
+#, c-format
+msgid "Moving files from %s"
+msgstr "Bestanden verplaatsen uit %s"
+
+#, c-format
+msgid "Copying files from %s"
+msgstr "Bestanden kopiëren uit %s"
+
+msgid "Labels deleted"
+msgstr "Labels verwijderd"
+
+msgid "Label saved"
+msgstr "Labels opgeslagen"
+
+msgid "Subject saved"
+msgstr "Onderwerp opgeslagen"
+
+msgid "Subject deleted"
+msgstr "Onderwerp verwijderd"
+
+msgid "Person saved"
+msgstr "Persoon gered"
+
+msgid "Person deleted"
+msgstr "Persoon verwijderd"
+
+#, c-format
+msgid "%d files uploaded in %d s"
+msgstr "%d bestanden geüpload in %d s"
+
+msgid "Selection approved"
+msgstr "Selectie goedgekeurd"
+
+msgid "Selection archived"
+msgstr "Selectie gearchiveerd"
+
+msgid "Selection restored"
+msgstr "Selectie hersteld"
+
+msgid "Selection marked as private"
+msgstr "Selectie gemarkeerd als privé"
+
+msgid "Albums deleted"
+msgstr "Albums verwijderd"
+
+#, c-format
+msgid "Zip created in %d s"
+msgstr "Zip gemaakt in %d s"
+
+msgid "Permanently deleted"
+msgstr "Permanent verwijderd"
+
+#~ msgid "Not found on server, deleted?"
+#~ msgstr "Niet gevonden op de server, verwijderd?"

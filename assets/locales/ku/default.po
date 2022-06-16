@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-09 00:51+0000\n"
+"PO-Revision-Date: 2022-02-19 14:34+0000\n"
+"Last-Translator: Admin <hello@photoprism.app>\n"
+"Language-Team: Kurdish <https://translate.photoprism.app/projects/photoprism/"
+"backend/ku/>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.10.1\n"
+
+msgid "Unexpected error, please try again"
+msgstr "هەڵەیەکی چاوەڕوان نەکراو، تکایە دووبارە هەوڵ بدەوە"
+
+msgid "Invalid request"
+msgstr "داواکاری نادروست"
+
+msgid "Changes could not be saved"
+msgstr "گۆڕانکاریەکان پاشەکەوت نەکراوە"
+
+msgid "Could not be deleted"
+msgstr "نەتوانرا بسڕێتەوە"
+
+#, c-format
+msgid "%s already exists"
+msgstr "%s پێشتر هەیە"
+
+msgid "Not found"
+msgstr "نەدۆزرایەوە"
+
+msgid "File not found"
+msgstr "دۆسیەکە نەدۆزرایەوە"
+
+msgid "Selection not found"
+msgstr "هەڵبژاردەکان نەدۆزرایەوە"
+
+msgid "Entity not found"
+msgstr "هیچ ئەلبومێکی نەدۆزیوەتەوە"
+
+msgid "Account not found"
+msgstr "هەژمارەکە نەدۆزرایەوە"
+
+msgid "User not found"
+msgstr "بەکارهێنەرەکە نەدۆزرایەوە"
+
+msgid "Label not found"
+msgstr "پێناسەکە نەدۆزرایەوە"
+
+msgid "Album not found"
+msgstr "ئەلبومەکە نەدۆزرایەوە"
+
+msgid "Subject not found"
+msgstr "ناونیشان"
+
+msgid "Person not found"
+msgstr "هیچ ئەلبومێکی نەدۆزیوەتەوە"
+
+msgid "Face not found"
+msgstr "نەدۆزرایەوە"
+
+msgid "Not available in public mode"
+msgstr "بەردەست نیە بۆ دۆخی گشتی"
+
+msgid "not available in read-only mode"
+msgstr "بەردەست نییە لە دۆخی تەنها-خوێندنەوە"
+
+msgid "Please log in and try again"
+msgstr "تکایە تێپەڕبە پاشان هەوڵبدەرەوە"
+
+msgid "Upload might be offensive"
+msgstr "بارکردن لەوانەیە سووکایەتی بێت"
+
+msgid "No items selected"
+msgstr "هیچ ئایتمێک دەستنیشان نەکراوە"
+
+msgid "Failed creating file, please check permissions"
+msgstr "شکست لە دروستکردنی پەڕگە، تکایە مۆڵەتەکان بپشکنە"
+
+msgid "Failed creating folder, please check permissions"
+msgstr "شکست لە دروستکردنی بوخچە، تکایە مۆڵەتەکان بپشکنە"
+
+msgid "Could not connect, please try again"
+msgstr "نەیتوانی پەیوەندی بگرێت، تکایە دووبارە هەوڵ بدەوە"
+
+msgid "Invalid password, please try again"
+msgstr "تێپەرەوشە هەڵەیە، تکایە جارێکی تر هەوڵبدەوە"
+
+msgid "Feature disabled"
+msgstr "تایبەتمەندی ناچالاک کراوە"
+
+msgid "No labels selected"
+msgstr "هیج لە پێناسەکان هەڵنەبژێردراوە"
+
+msgid "No albums selected"
+msgstr "هیج لە ئەلبومەکان هەڵنەبژێردراوە"
+
+msgid "No files available for download"
+msgstr "هیچ پەڕگەیەک ئامادە نیە بۆ داگرتن"
+
+msgid "Failed to create zip file"
+msgstr "دروستکردنی فایلی زیپ سەرکەوتوو نەبوو"
+
+msgid "Invalid credentials"
+msgstr "زانیارییەکان نادروستە"
+
+msgid "Invalid link"
+msgstr "بەستەرەکە نادروستە"
+
+msgid "Invalid name"
+msgstr "بەروارێکی نادروست"
+
+#, fuzzy
+#| msgid "Invalid password, please try again"
+msgid "Busy, please try again later"
+msgstr "تێپەرەوشە هەڵەیە، تکایە جارێکی تر هەوڵبدەوە"
+
+msgid "Changes successfully saved"
+msgstr "گۆڕانکاریەکان سەرکەوتوانە پاشەکەوتکرا"
+
+msgid "Album created"
+msgstr "ئەلبومەکە دروستکرا"
+
+msgid "Album saved"
+msgstr "ئەلبومەکە پاشەکەوتکرا"
+
+#, c-format
+msgid "Album %s deleted"
+msgstr "ئەلبومی %s سڕایەوە"
+
+msgid "Album contents cloned"
+msgstr "ناوەڕۆکەکانی ئەلبومەکە هاووێنە کرا"
+
+msgid "File removed from stack"
+msgstr "دۆسیەکە کۆژاوەتەوە لە کەڵەکەکە"
+
+msgid "File deleted"
+msgstr "پەڕگە سڕایەوە"
+
+#, c-format
+msgid "Selection added to %s"
+msgstr "دەستنیشان کراو زیادکرایە %s"
+
+#, c-format
+msgid "One entry added to %s"
+msgstr "یەک تێکراو زیاد کرایە %s"
+
+#, fuzzy, c-format
+msgid "%d entries added to %s"
+msgstr "%d تێکراو زیاد کرایە  %s"
+
+#, c-format
+msgid "One entry removed from %s"
+msgstr "یەک تێکراو لابرا لە %s"
+
+#, c-format
+msgid "%d entries removed from %s"
+msgstr "%d تێکراو لابرا لە %s"
+
+msgid "Account created"
+msgstr "هەژمارەکە دروستکرا"
+
+msgid "Account saved"
+msgstr "هەژمارەکە پاشەکەوتکرا"
+
+msgid "Account deleted"
+msgstr "هەژمارەکە سڕایەوە"
+
+#, fuzzy
+msgid "Settings saved"
+msgstr "ڕێکخستنەکان پاشەکەوتکرا"
+
+#, fuzzy
+msgid "Password changed"
+msgstr "تێپەڕەوشە گۆڕدرا"
+
+#, fuzzy, c-format
+msgid "Import completed in %d s"
+msgstr "هاوردن تەواو بوو بە %d  چرکە"
+
+msgid "Import canceled"
+msgstr "هاوردن هەڵوەشێنرایەوە"
+
+#, c-format
+msgid "Indexing completed in %d s"
+msgstr "نیشانە کردن تەواو بوو بە %d چرکە"
+
+msgid "Indexing originals..."
+msgstr "نیشانەکردنی ڕەسەنەکان..."
+
+#, c-format
+msgid "Indexing files in %s"
+msgstr "نیشانەکردنی پەڕگەکان لە %s"
+
+msgid "Indexing canceled"
+msgstr "نیشانەکردن هەڵوەشێنرایەوە"
+
+#, fuzzy, c-format
+msgid "Removed %d files and %d photos"
+msgstr "لابردنی %d پەڕگە و  %d وێنە"
+
+#, c-format
+msgid "Moving files from %s"
+msgstr "گواستنەوەی پەڕگە لە %s"
+
+#, c-format
+msgid "Copying files from %s"
+msgstr "کۆپی کردنی پەڕگە لە%s"
+
+#, fuzzy
+msgid "Labels deleted"
+msgstr "پێناسەکان سڕانەوە"
+
+msgid "Label saved"
+msgstr "پێناسەکە پاشەکەوتکرا"
+
+msgid "Subject saved"
+msgstr "ناونیشان"
+
+msgid "Subject deleted"
+msgstr "ناونیشان"
+
+msgid "Person saved"
+msgstr "ڕێکخستنەکان پاشەکەوتکراو"
+
+msgid "Person deleted"
+msgstr "ئەلبومەکان سڕانەوە"
+
+#, c-format
+msgid "%d files uploaded in %d s"
+msgstr "%d پەڕگە بارکرە بە %d چرکە"
+
+msgid "Selection approved"
+msgstr "دەستنیشان کراو پەسەند کرا"
+
+#, fuzzy
+msgid "Selection archived"
+msgstr "هەڵبژاردەکە ئەرشیفکرا"
+
+#, fuzzy
+msgid "Selection restored"
+msgstr "هەڵبژاردەکە دووبارەکۆگاکرایەوە"
+
+msgid "Selection marked as private"
+msgstr "دەستنیشانکراوەکان کران بە تایبەتی"
+
+#, fuzzy
+msgid "Albums deleted"
+msgstr "ئەلبومەکان سڕایەوە"
+
+#, c-format
+msgid "Zip created in %d s"
+msgstr "زیپ بە %d چرکە دروستکرا"
+
+msgid "Permanently deleted"
+msgstr "بە هەمیشەیی سڕاوەتەوە"
+
+#~ msgid "Not found on server, deleted?"
+#~ msgstr "نەدۆزرایەوە لە سەر ڕاژە، سڕایەوە؟"

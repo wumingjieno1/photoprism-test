@@ -1,0 +1,261 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: ci@photoprism.app\n"
+"POT-Creation-Date: 2021-12-09 00:51+0000\n"
+"PO-Revision-Date: 2022-04-27 10:16+0000\n"
+"Last-Translator: Admin <hello@photoprism.app>\n"
+"Language-Team: Russian <https://translate.photoprism.app/projects/photoprism/"
+"backend/ru/>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.12\n"
+
+msgid "Unexpected error, please try again"
+msgstr "Неожиданная ошибка попробуйте еще раз"
+
+msgid "Invalid request"
+msgstr "Неправильный запрос"
+
+msgid "Changes could not be saved"
+msgstr "Изменения не будут сохранены"
+
+msgid "Could not be deleted"
+msgstr "Не будет удалено"
+
+#, c-format
+msgid "%s already exists"
+msgstr "%s уже существует"
+
+msgid "Not found"
+msgstr "Не найдено"
+
+msgid "File not found"
+msgstr "Файл не найден"
+
+msgid "Selection not found"
+msgstr "Выделение не найдено"
+
+msgid "Entity not found"
+msgstr "Сущность не найдена"
+
+msgid "Account not found"
+msgstr "Учетная запись не найдена"
+
+msgid "User not found"
+msgstr "Пользователь не найден"
+
+msgid "Label not found"
+msgstr "Метка не найдена"
+
+msgid "Album not found"
+msgstr "Альбом не найден"
+
+msgid "Subject not found"
+msgstr "Объект не найден"
+
+msgid "Person not found"
+msgstr "Человек не найден"
+
+msgid "Face not found"
+msgstr "Лицо не найдено"
+
+msgid "Not available in public mode"
+msgstr "Не доступно в публичном режиме"
+
+msgid "not available in read-only mode"
+msgstr "не доступно в режиме только для чтения"
+
+msgid "Please log in and try again"
+msgstr "Пожалуйста войдите и попробуйте еще раз"
+
+msgid "Upload might be offensive"
+msgstr "Загрузка может быть оскорбительной"
+
+msgid "No items selected"
+msgstr "Нет выделенных элементов"
+
+msgid "Failed creating file, please check permissions"
+msgstr "Не удалось создать файл, пожалуйста проверьте права доступа"
+
+msgid "Failed creating folder, please check permissions"
+msgstr "Не удалось создать папку, пожалуйста проверьте права доступа"
+
+msgid "Could not connect, please try again"
+msgstr "Нет соединения, попробуйте еще раз"
+
+msgid "Invalid password, please try again"
+msgstr "Неверный пароль, пожалуйста попробуйте еще раз"
+
+msgid "Feature disabled"
+msgstr "Данная возможность отключена"
+
+msgid "No labels selected"
+msgstr "Нет выделенных меток"
+
+msgid "No albums selected"
+msgstr "Нет выделенных альбомов"
+
+msgid "No files available for download"
+msgstr "Нет файлов, доступных для скачивания"
+
+msgid "Failed to create zip file"
+msgstr "Не удалось создать zip файл"
+
+msgid "Invalid credentials"
+msgstr "Неверные учетные данные"
+
+msgid "Invalid link"
+msgstr "Неверная ссылка"
+
+msgid "Invalid name"
+msgstr "Неприемлемое имя"
+
+msgid "Busy, please try again later"
+msgstr "Занят, повторите попытку позже"
+
+msgid "Changes successfully saved"
+msgstr "Изменения сохранены"
+
+msgid "Album created"
+msgstr "Альбом создан"
+
+msgid "Album saved"
+msgstr "\\альбом сохранен"
+
+#, c-format
+msgid "Album %s deleted"
+msgstr "Альбом %s удален"
+
+msgid "Album contents cloned"
+msgstr "Содержимое альбома скоприровано"
+
+msgid "File removed from stack"
+msgstr "Файл удален из очереди"
+
+msgid "File deleted"
+msgstr "Файл удалён"
+
+#, c-format
+msgid "Selection added to %s"
+msgstr "Выделение добавлено к %s"
+
+#, c-format
+msgid "One entry added to %s"
+msgstr "Один элемент добавлен к %s"
+
+#, c-format
+msgid "%d entries added to %s"
+msgstr "%d элементов добавлено к %s"
+
+#, c-format
+msgid "One entry removed from %s"
+msgstr "Один элемент удален из %s"
+
+#, c-format
+msgid "%d entries removed from %s"
+msgstr "%d элементов удалено из %s"
+
+msgid "Account created"
+msgstr "Учетная запись создана"
+
+msgid "Account saved"
+msgstr "Учетная запись сохранена"
+
+msgid "Account deleted"
+msgstr "Учетная запись удалена"
+
+msgid "Settings saved"
+msgstr "Настройки сохранены"
+
+msgid "Password changed"
+msgstr "Пароль изменен"
+
+#, c-format
+msgid "Import completed in %d s"
+msgstr "Импортирование завершено за %d c"
+
+msgid "Import canceled"
+msgstr "Импортирование отменено"
+
+#, c-format
+msgid "Indexing completed in %d s"
+msgstr "Индексирование завершено за %d с"
+
+msgid "Indexing originals..."
+msgstr "Индексирование Оригиналов..."
+
+#, c-format
+msgid "Indexing files in %s"
+msgstr "Индексирование файлов в %s"
+
+msgid "Indexing canceled"
+msgstr "Индексирование отменено"
+
+#, c-format
+msgid "Removed %d files and %d photos"
+msgstr "Удаление %d файлов и %d фотографий"
+
+#, c-format
+msgid "Moving files from %s"
+msgstr "Перемещение файлов из %s"
+
+#, c-format
+msgid "Copying files from %s"
+msgstr "Копирование файлов из %s"
+
+msgid "Labels deleted"
+msgstr "Метки удалены"
+
+msgid "Label saved"
+msgstr "Метки сохранены"
+
+msgid "Subject saved"
+msgstr "Тема сохранена"
+
+msgid "Subject deleted"
+msgstr "Тема удалена"
+
+msgid "Person saved"
+msgstr "Человек спасен"
+
+msgid "Person deleted"
+msgstr "Лицо удалено"
+
+#, c-format
+msgid "%d files uploaded in %d s"
+msgstr "%d файлов загружено за %d с"
+
+msgid "Selection approved"
+msgstr "Утвержденный выбор"
+
+msgid "Selection archived"
+msgstr "Выбранное помещено в архив"
+
+msgid "Selection restored"
+msgstr "Выбранное восстановлено"
+
+msgid "Selection marked as private"
+msgstr "Выбранное помечено как приватное"
+
+msgid "Albums deleted"
+msgstr "Альбом удален"
+
+#, c-format
+msgid "Zip created in %d s"
+msgstr "Zip архив создан за %d с"
+
+msgid "Permanently deleted"
+msgstr "Постоянно удаляется"
+
+#~ msgid "Not found on server, deleted?"
+#~ msgstr "Не найдено на сервере, удалено?"

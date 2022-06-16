@@ -1,0 +1,262 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: ci@photoprism.app\n"
+"POT-Creation-Date: 2021-12-09 00:51+0000\n"
+"PO-Revision-Date: 2022-04-28 17:06+0000\n"
+"Last-Translator: gagnonraphael <gagnon.raphael@gmail.com>\n"
+"Language-Team: French <https://translate.photoprism.app/projects/photoprism/"
+"backend/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.12\n"
+
+msgid "Unexpected error, please try again"
+msgstr "Erreur imprévue, veuillez recommencer"
+
+msgid "Invalid request"
+msgstr "Requête invalide"
+
+msgid "Changes could not be saved"
+msgstr "Les modifications n'ont pas pu être sauvegardées"
+
+msgid "Could not be deleted"
+msgstr "N'a pu être supprimé"
+
+#, c-format
+msgid "%s already exists"
+msgstr "%s existe déjà"
+
+msgid "Not found"
+msgstr "Non trouvé"
+
+msgid "File not found"
+msgstr "Fichier non trouvé"
+
+msgid "Selection not found"
+msgstr "Sélection non trouvée"
+
+msgid "Entity not found"
+msgstr "Entité non trouvée"
+
+msgid "Account not found"
+msgstr "Compte non trouvé"
+
+msgid "User not found"
+msgstr "Utilisateur non trouvé"
+
+msgid "Label not found"
+msgstr "Étiquette non trouvée"
+
+msgid "Album not found"
+msgstr "Album non trouvé"
+
+msgid "Subject not found"
+msgstr "Sujet non trouvé"
+
+msgid "Person not found"
+msgstr "Personne non trouvée"
+
+msgid "Face not found"
+msgstr "Visage non trouvé"
+
+msgid "Not available in public mode"
+msgstr "Non disponible en mode public"
+
+msgid "not available in read-only mode"
+msgstr "non disponible en mode lecture seule"
+
+msgid "Please log in and try again"
+msgstr "Veuillez vous identifier et recommencer"
+
+msgid "Upload might be offensive"
+msgstr "Le contenu chargé peut être choquant"
+
+msgid "No items selected"
+msgstr "Aucun élément sélectionné"
+
+msgid "Failed creating file, please check permissions"
+msgstr ""
+"Échec lors de la création du fichier, veuillez vérifier les autorisations"
+
+msgid "Failed creating folder, please check permissions"
+msgstr ""
+"Échec lors de la création du dossier, veuillez vérifier les autorisations"
+
+msgid "Could not connect, please try again"
+msgstr "Échec lors de la connexion, veuillez réessayer"
+
+msgid "Invalid password, please try again"
+msgstr "Mot de passe invalide, veuillez réessayer"
+
+msgid "Feature disabled"
+msgstr "Fonctionnalité désactivée"
+
+msgid "No labels selected"
+msgstr "Aucune étiquette sélectionnée"
+
+msgid "No albums selected"
+msgstr "Aucun album sélectionné"
+
+msgid "No files available for download"
+msgstr "Aucun fichier disponible au téléchargement"
+
+msgid "Failed to create zip file"
+msgstr "Échec de la création de l'archive zip"
+
+msgid "Invalid credentials"
+msgstr "Les informations d'identification sont invalides"
+
+msgid "Invalid link"
+msgstr "Lien invalide"
+
+msgid "Invalid name"
+msgstr "Nom invalide"
+
+msgid "Busy, please try again later"
+msgstr "Occupé, veuillez réessayer plus tard"
+
+msgid "Changes successfully saved"
+msgstr "Les modifications ont bien été enregistrées"
+
+msgid "Album created"
+msgstr "Album créé"
+
+msgid "Album saved"
+msgstr "Album sauvegardé"
+
+#, c-format
+msgid "Album %s deleted"
+msgstr "Album %s supprimé"
+
+msgid "Album contents cloned"
+msgstr "Le contenu de l'album a été copié"
+
+msgid "File removed from stack"
+msgstr "Le fichier a été retiré du groupe"
+
+msgid "File deleted"
+msgstr "Fichier supprimé"
+
+#, c-format
+msgid "Selection added to %s"
+msgstr "Sélection ajoutée à %s"
+
+#, c-format
+msgid "One entry added to %s"
+msgstr "Une entrée a été ajoutée à %s"
+
+#, c-format
+msgid "%d entries added to %s"
+msgstr "%d entrées ont été ajoutées à %s"
+
+#, c-format
+msgid "One entry removed from %s"
+msgstr "Une entrée a été supprimée de %s"
+
+#, c-format
+msgid "%d entries removed from %s"
+msgstr "%d entrées ont été supprimées de %s"
+
+msgid "Account created"
+msgstr "Compte créé"
+
+msgid "Account saved"
+msgstr "Compte sauvegardé"
+
+msgid "Account deleted"
+msgstr "Compte supprimé"
+
+msgid "Settings saved"
+msgstr "Paramètres sauvegardés"
+
+msgid "Password changed"
+msgstr "Mot de passe modifié"
+
+#, c-format
+msgid "Import completed in %d s"
+msgstr "Importation terminée en %d s"
+
+msgid "Import canceled"
+msgstr "Importation annulée"
+
+#, c-format
+msgid "Indexing completed in %d s"
+msgstr "Indexation terminée en %d s"
+
+msgid "Indexing originals..."
+msgstr "Indexage des originaux…"
+
+#, c-format
+msgid "Indexing files in %s"
+msgstr "Indexation des fichiers de %s"
+
+msgid "Indexing canceled"
+msgstr "Indexation annulée"
+
+#, c-format
+msgid "Removed %d files and %d photos"
+msgstr "Suppression de %d fichiers et %d photos"
+
+#, c-format
+msgid "Moving files from %s"
+msgstr "Déplacement de fichiers depuis %s"
+
+#, c-format
+msgid "Copying files from %s"
+msgstr "Copie de fichiers depuis %s"
+
+msgid "Labels deleted"
+msgstr "Étiquettes supprimées"
+
+msgid "Label saved"
+msgstr "Étiquettes sauvegardées"
+
+msgid "Subject saved"
+msgstr "Sujet sauvegardé"
+
+msgid "Subject deleted"
+msgstr "Sujet supprimé"
+
+msgid "Person saved"
+msgstr "Personne sauvegardée"
+
+msgid "Person deleted"
+msgstr "Personne supprimée"
+
+#, c-format
+msgid "%d files uploaded in %d s"
+msgstr "%d fichiers chargés en %d s"
+
+msgid "Selection approved"
+msgstr "Sélection approuvée"
+
+msgid "Selection archived"
+msgstr "Sélection archivée"
+
+msgid "Selection restored"
+msgstr "Sélection restaurée"
+
+msgid "Selection marked as private"
+msgstr "Sélection marquée comme privée"
+
+msgid "Albums deleted"
+msgstr "Albums supprimés"
+
+#, c-format
+msgid "Zip created in %d s"
+msgstr "Archive zip créée en %d s"
+
+msgid "Permanently deleted"
+msgstr "Supprimé définitivement"
+
+#~ msgid "Not found on server, deleted?"
+#~ msgstr "Non trouvé sur le serveur. Supprimé?"
